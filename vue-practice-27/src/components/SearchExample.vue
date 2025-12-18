@@ -50,7 +50,7 @@ export default {
     
     const performSearch = () => {
       console.log('Выполняем поиск:', searchQuery.value)
-    }
+    } 
     
     const resetSearch = () => {
       searchQuery.value = ''
